@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ozame upthyrahma</h1>
+<h1 align="center">Hi 👋, I'm ozame upthyrahman</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **reactnative and nextjs**
